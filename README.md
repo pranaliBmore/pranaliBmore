@@ -21,7 +21,8 @@ A quick learner with strong **problem-solving skills**, passionate about **AI/ML
 - 💼 Former **Data Analyst Intern** at **MITU Skillologies**  
 - 💬 Ask me about **Python**, **Machine Learning**, **Java**, **Web Development**, or **Databases**  
 - 💡 Interested in **AI & ML**, **chatbots**, **web apps**, and **software engineering**  
-- 📫 Reach me at **morepranali0007@gmail.com**
+- 📫 Reach me at 📧 [Email](mailto:morepranali0007@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/pranali-more)
+
 
 ---
 
