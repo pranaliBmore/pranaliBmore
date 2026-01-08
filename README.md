@@ -14,7 +14,7 @@
 Motivated and detail-oriented **Computer Science Engineering student** with a strong foundation in **software development, web technologies, and machine learning**.  
 Experienced in building **data-driven solutions** through academic and internship projects, including **credit card fraud detection systems** and **chatbot-based web applications**.  
 
-Skilled in **Python**, **Java**, **C/C++**, and **web development (HTML, CSS, JavaScript, PHP)**, with hands-on experience in **databases (MySQL)** and **Android application development** using **Android Studio**.  
+Skilled in **Python**, **Java**, **C**, **C++**, and **web development (HTML, CSS, JavaScript, PHP)**, with hands-on experience in **databases (MySQL)** and **Android application development** using **Android Studio**.  
 A quick learner with strong **problem-solving skills**, passionate about **AI/ML applications**, **full-stack development**, and exploring **modern tools and frameworks** to build impactful solutions.
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering**  
