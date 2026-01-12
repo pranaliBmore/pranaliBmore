@@ -29,13 +29,13 @@
 
 ## 🚀 About Me
 
-I'm a **motivated Computer Science Engineering student** with hands-on experience in  
+I'm a **motivated Computer Science Engineering student** with practical exposure to  
 **Machine Learning, Data Analytics, and Web Development**.
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering**
 - 💼 Former **Data Analyst Intern** at **MITU Skillologies**
-- 🧠 Passionate about **AI/ML, Data Science & Software Engineering**
-- ⚡ Believe in **learning by doing**
+- 🧠 Strong interest in **AI/ML, Data Science & Software Engineering**
+- ⚡ Believe in **continuous learning & hands-on building**
 
 ---
 
@@ -57,11 +57,19 @@ I'm a **motivated Computer Science Engineering student** with hands-on experienc
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & Data
+### 🤖 Machine Learning & Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ### 📱 Mobile Development
@@ -88,62 +96,49 @@ I'm a **motivated Computer Science Engineering student** with hands-on experienc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morepranali0007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morepranali0007&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morepranali0007&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🏆 Featured Projects
 
 ### 💳 Credit Card Fraud Detection
 **Tech Stack:** Python, Machine Learning  
-- Fraud classification using ML models  
-- Feature engineering & evaluation  
-
----
+- Fraud classification & anomaly detection  
+- Feature engineering and model evaluation  
 
 ### 🤖 Student Helpline Chatbot
 **Tech Stack:** HTML, CSS, JavaScript, PHP  
-- Chatbot for academic & administrative queries  
-
----
+- Automated academic & administrative support
 
 ### 🏥 Hospital Management System
 **Tech Stack:** Java, OOP, MySQL  
 - Patient, doctor, appointment & billing modules  
-- Clean OOP-based architecture with database integration  
+- Clean OOP-based architecture  
 
 ---
 
 ## 🎯 Areas of Interest
 
-- 🤖 Machine Learning & AI  
-- 📊 Data Analytics  
-- 🌐 Web Development  
-- 📱 Android Development  
+- 🤖 Machine Learning & Artificial Intelligence  
+- 📊 Data Analytics & Visualization  
+- 🌐 Full-Stack Web Development  
+- 📱 Android App Development  
 - 🧠 Problem Solving  
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <p align="center">
   <a href="mailto:morepranali0007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/pranali-more">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge"/>
   </a>
+</p>
+
+<p align="center">
+✨ Open to internships, collaborations & learning opportunities ✨
 </p>
 
 ---
 
-💙 *Thanks for visiting my profile — let’s build something amazing together!*
+💙 *Thanks for stopping by — let’s build impactful solutions together!*
