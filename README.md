@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi there 👋 I'm Pranali More
-</h1>
+<h1 align="center">Hi there 👋 I'm Pranali More</h1>
 
 <p align="center">
   <img 
@@ -43,32 +41,49 @@ I'm a **motivated Computer Science Engineering student** with hands-on experienc
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php&theme=dark" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### 🌐 Web & App Development
+### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,androidstudio&theme=dark" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### 🤖 Machine Learning & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,mongodb&theme=dark" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
-### 🧰 Tools
+### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -91,14 +106,20 @@ I'm a **motivated Computer Science Engineering student** with hands-on experienc
 ### 💳 Credit Card Fraud Detection
 **Tech Stack:** Python, Machine Learning  
 - Fraud classification using ML models  
-- Feature engineering & performance evaluation  
+- Feature engineering & evaluation  
 
 ---
 
 ### 🤖 Student Helpline Chatbot
 **Tech Stack:** HTML, CSS, JavaScript, PHP  
 - Chatbot for academic & administrative queries  
-- Improved institutional communication  
+
+---
+
+### 🏥 Hospital Management System
+**Tech Stack:** Java, OOP, MySQL  
+- Patient, doctor, appointment & billing modules  
+- Clean OOP-based architecture with database integration  
 
 ---
 
