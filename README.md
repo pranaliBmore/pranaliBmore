@@ -39,55 +39,58 @@ I'm a **motivated Computer Science Engineering student** with practical exposure
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Tech & Tools I Work With
 
-### 💻 Programming Languages
+<details open>
+<summary><h3>💻 Programming Languages</h3></summary>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php&theme=light" />
 </p>
+</details>
 
-### 🌐 Web Development
+<details open>
+<summary><h3>🌐 Web Development</h3></summary>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php&theme=light" />
 </p>
+</details>
 
-### 🤖 Machine Learning & Data Science
+<details open>
+<summary><h3>🤖 Machine Learning & Data Science</h3></summary>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,jupyter&theme=light" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square"/>
 </p>
+</details>
 
-### 📱 Mobile Development
+<details open>
+<summary><h3>📱 Mobile Development</h3></summary>
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=light" />
 </p>
+</details>
 
-### 🗄️ Databases
+<details open>
+<summary><h3>🗄️ Databases</h3></summary>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
 </p>
+</details>
 
-### 🧰 Tools & Platforms
+<details open>
+<summary><h3>🧰 Tools & Platforms</h3></summary>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 </p>
+</details>
 
 ---
 
@@ -98,11 +101,9 @@ I'm a **motivated Computer Science Engineering student** with practical exposure
 - Fraud classification & anomaly detection  
 - Feature engineering and model evaluation  
 
-
 ### 🤖 Student Helpline Chatbot
 **Tech Stack:** HTML, CSS, JavaScript, PHP  
-- Automated academic & administrative support
-
+- Automated academic & administrative support  
 
 ### 🏥 Hospital Management System
 **Tech Stack:** Java, OOP, MySQL  
