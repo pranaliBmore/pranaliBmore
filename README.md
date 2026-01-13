@@ -1,142 +1,86 @@
-<h1 align="center">Hi there 👋 I'm Pranali More</h1>
+<h2 align="center">👋 Hi, I'm Pranali More</h2>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Data+Analyst+Intern;Machine+Learning+Enthusiast;Full+Stack+Developer+in+Progress"
-  />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=morepranali0007&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-</p>
-
-<p align="center">
-  🎓 B.Tech CSE Student &nbsp;•&nbsp;
-  💻 Data Analyst Intern &nbsp;•&nbsp;
-  📍 Maharashtra, India
-</p>
-
-<p align="center">
-  <a href="mailto:morepranali0007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pranali-more">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+🎓 Computer Science & Engineering Student <br>
+📊 Aspiring <strong>Data Analyst</strong> | Software Development | Machine Learning <br>
+📍 Maharashtra, India
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I'm a **motivated Computer Science Engineering student** with practical exposure to  
-**Machine Learning, Data Analytics, and Web Development**.
+I am a motivated **Computer Science student and aspiring Data Analyst** with a strong foundation in **data analysis, machine learning, and software development**. I have hands-on experience working with **real-world datasets**, performing **data cleaning, preprocessing, exploratory data analysis (EDA)**, and building **machine learning models** to extract meaningful insights.
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
-- 💼 Former **Data Analyst Intern** at **MITU Skillologies**
-- 🧠 Strong interest in **AI/ML, Data Science & Software Engineering**
-- ⚡ Believe in **continuous learning & hands-on building**
+Through internships and academic projects, I have applied **Python-based data analytics and ML techniques** to solve practical problems such as **credit card fraud detection**. I am passionate about **data-driven decision-making**, analytical problem-solving, and continuous learning.
 
 ---
 
-## 🧩 Tech & Tools I Work With
-
-<details open>
-<summary><h3>💻 Programming Languages</h3></summary>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php&theme=light" />
-</p>
-</details>
-
-<details open>
-<summary><h3>🌐 Web Development</h3></summary>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php&theme=light" />
-</p>
-</details>
-
-<details open>
-<summary><h3>🤖 Machine Learning & Data Science</h3></summary>
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter&theme=light" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-003545?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
-</details>
 
-<details open>
-<summary><h3>📱 Mobile Development</h3></summary>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=light" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-346AC1?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-</details>
-
-<details open>
-<summary><h3>🗄️ Databases</h3></summary>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
-</p>
-</details>
-
-<details open>
-<summary><h3>🧰 Tools & Platforms</h3></summary>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
-</p>
-</details>
 
 ---
 
-## 🏆 Featured Projects
+## 💼 Experience
 
-### 💳 Credit Card Fraud Detection
-**Tech Stack:** Python, Machine Learning  
-- Fraud classification & anomaly detection  
-- Feature engineering and model evaluation  
+### 📊 Data Analyst Intern — **MITU Skillologies**  
+**June 2024 – July 2024**
+
+- Worked on **Credit Card Fraud Detection** using Machine Learning  
+- Performed **data cleaning, EDA, feature engineering**, and model evaluation  
+- Analyzed transactional data to detect **fraud patterns and anomalies**  
+- Gained hands-on experience with **real-world datasets**
+
+---
+
+## 🚀 Projects
+
+### 🔐 Credit Card Fraud Detection
+- Built ML models to classify fraudulent transactions  
+- Applied data preprocessing and feature selection  
+- Evaluated models using accuracy and performance metrics  
 
 ### 🤖 Student Helpline Chatbot
-**Tech Stack:** HTML, CSS, JavaScript, PHP  
-- Automated academic & administrative support  
-
-### 🏥 Hospital Management System
-**Tech Stack:** Java, OOP, MySQL  
-- Patient, doctor, appointment & billing modules  
-- Clean OOP-based architecture  
+- Developed a web-based chatbot for **GRWP Tasgaon**  
+- Assisted students, parents, and teachers with academic queries  
+- Improved communication efficiency through automation  
 
 ---
 
-## 🎯 Areas of Interest
+## 📫 Contact Me
 
-- 🤖 Machine Learning & Artificial Intelligence  
-- 📊 Data Analytics & Visualization  
-- 🌐 Full-Stack Web Development  
-- 📱 Android App Development  
-- 🧠 Problem Solving  
+- 📧 Email: **morepranali0007@gmail.com**
+- 📱 Phone: **+91 7620105100**
+- 🔗 GitHub: **https://github.com/pranaliBmore/**
 
 ---
 
-## 🤝 Let's Connect & Collaborate
-
-<p align="center">
-  <a href="mailto:morepranali0007@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pranali-more">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge"/>
-  </a>
-</p>
-
-<p align="center">
-✨ Open to internships, collaborations & learning opportunities ✨
-</p>
-
----
-
-💙 *Thanks for stopping by — let’s build impactful solutions together!*
+⭐ *Open to internships and entry-level opportunities in Data Analytics & Software Development.*
