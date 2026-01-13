@@ -75,8 +75,7 @@ Through internships and academic projects, I have applied **Python-based data an
 ## 📫 Contact Me
 
 - 📧 Email: **morepranali0007@gmail.com**
-- 📱 Phone: **+91 7620105100**
-- 🔗 GitHub: **https://github.com/pranaliBmore/**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/pranali-more/**
 
 ---
 
