@@ -6,6 +6,18 @@
 📍 Maharashtra, India
 </p>
 
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+    🌐 <strong>Portfolio</strong>
+  </a> •
+  <a href="https://www.linkedin.com/in/pranali-more/" target="_blank">
+    🔗 <strong>LinkedIn</strong>
+  </a> •
+  <a href="mailto:morepranali0007@gmail.com">
+    📧 <strong>Email</strong>
+  </a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
@@ -69,13 +81,6 @@ Through internships and academic projects, I have applied **Python-based data an
 - Developed a web-based chatbot for **GRWP Tasgaon**  
 - Assisted students, parents, and teachers with academic queries  
 - Improved communication efficiency through automation  
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: **morepranali0007@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/pranali-more/**
 
 ---
 
