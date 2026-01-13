@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+  <a href="https://pranalibmore-portfolio.netlify.app/" target="_blank">
     🌐 <strong>Portfolio</strong>
   </a> •
   <a href="https://www.linkedin.com/in/pranali-more/" target="_blank">
